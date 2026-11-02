@@ -1,13 +1,13 @@
 # Cronograma de DulceReserva
 
-## Periodo previsto
-Del 16 de noviembre de 2026 al 16 de mayo de 2027.
-
-## Dedicación
-153 horas distribuidas en 24 tareas.
+## Periodo de desarrollo
+- Inicio previsto: 16 de noviembre de 2026.
+- Finalización prevista: 16 de mayo de 2027.
+- Dedicación estimada: 153 horas.
+- Número de tareas: 24.
 
 ## Hitos principales
-| Hito | Fecha | Resultado |
+| Hito | Fecha prevista | Resultado |
 |---|---|---|
 | H1 | 20/12/2026 | Diseño y base de datos preparados |
 | H2 | 31/01/2027 | Autenticación y catálogo operativos |
@@ -17,12 +17,12 @@ Del 16 de noviembre de 2026 al 16 de mayo de 2027.
 | H6 | 16/05/2027 | Versión demostrable y documentación |
 
 ## Organización
-Las tareas se realizarán siguiendo las dependencias establecidas en la planificación.
+El desarrollo seguirá las dependencias definidas en la planificación de la Fase 3.
 
-Se tendrá en cuenta la disponibilidad personal y los periodos de evaluación.
+Se realizarán revisiones semanales y se ajustará la carga de trabajo durante los periodos de exámenes y las semanas de abril.
 
 ## Seguimiento
-Se revisará semanalmente el progreso y se actualizarán las tareas mediante GitHub Issues.
+Las tareas e incidencias se gestionarán mediante GitHub Issues. Los cambios del código y la documentación se registrarán con Git.
 
 ## Diagrama de Gantt
-El Gantt detallado se incluye en el documento PDF de la Fase 3 del Proyecto Intermodular.
+El diagrama de Gantt detallado se incluye en el documento PDF de la Fase 3 del Proyecto Intermodular.
